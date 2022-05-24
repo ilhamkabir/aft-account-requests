@@ -1,2 +1,2 @@
-# infrastructure-account-requests
-Infrastructure Account Requests
+# aft-account-requests
+Account Factory Terraform - Account Requests
