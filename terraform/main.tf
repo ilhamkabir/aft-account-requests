@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "Ilham Kabir"
-    change_reason       = "testing the account vending process"
+    change_reason       = "Testing the account vending process"
   }
 
   custom_fields = {
