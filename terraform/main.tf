@@ -23,5 +23,5 @@ module "sandbox" {
     group = "non-prod"
   }
 
-  account_customizations_name = "sandbox"
+  account_customizations_name = "sandbox" # account customizations need to be in a folder in the "aft-account-customizations" repo with this name.
 }
